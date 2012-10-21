@@ -1,0 +1,17 @@
+{
+  "name": "anvil.start",
+  "version": "0.0.1",
+  "description": "Creates the basic anvil.js folder structure.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcreamer898/anvil.start"
+  },
+  "keywords": [
+    "anvil",
+    "start",
+    "scaffold"
+  ],
+  "author": "Jonathan Creamer",
+  "license": "MIT"
+}
